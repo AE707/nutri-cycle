@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056356407699",
+    "firebase_url": "https://periodapp-e44c4-default-rtdb.firebaseio.com",
+    "project_id": "periodapp-e44c4",
+    "storage_bucket": "periodapp-e44c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056356407699:android:53f240904e2a01b65b7066",
+        "android_client_info": {
+          "package_name": "com.example.period_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056356407699-hghruklmfoj9giti4opeja8iaqid2uam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6F1MnmIzqzv3j78JNCwk-W2Cj7Nb9QKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056356407699-hghruklmfoj9giti4opeja8iaqid2uam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
